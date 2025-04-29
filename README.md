@@ -4,6 +4,8 @@ An interactive and insightful Power BI dashboard built for BigBasket, offering a
 # Overview
 The BigBasket Sales Dashboard provides a 360-degree view of business operations with a focus on total sales, quantity sold, top-selling items, customer segmentation, and time-based performance across multiple regions.
 
+# powerBI dashboard link : https://github.com/raushankr82/BigBasket_powerBI_Sales_dashboard/blob/main/ebasket_sales_dashboard.pbix
+
 # Key Features
 # Product Performance
 
